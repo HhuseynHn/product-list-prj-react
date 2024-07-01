@@ -1,0 +1,30 @@
+/** @format */
+
+header {
+  background-color: black;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+.header-container {
+  width: 80%;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  padding: 3px 0px;
+}
+nav ul {
+  display: flex;
+  
+  column-gap: 35px;
+  font-size: large;
+  font-weight: bold;
+}
+nav ul li {
+  list-style-type: none;
+  font-size: 18px;
+  color: rgb(154, 154, 224);
+  cursor: pointer;
+}

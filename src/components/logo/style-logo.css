@@ -1,0 +1,11 @@
+.logo{
+ color: rgb(22, 18, 241);
+ font-size: 35px;
+ font-weight: bolder;
+ border: solid 1px blue;
+ padding: 7px 20px;
+ border-top-right-radius: 50%;
+ border-bottom-right-radius: 50%;
+ border-top-left-radius: 50%;
+ border-bottom-left-radius: 50%;
+}
